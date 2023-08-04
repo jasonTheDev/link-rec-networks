@@ -1,6 +1,6 @@
 # Networks for Link Recommendation Analysis
 
-This repo contains the edge list's for several large social networks found at [Snap](http://snap.stanford.edu/data/index.html). The networks are stored as lists of edges, where each row is and edge, and nodes are separated by a space.
+This repo contains the edge list's for several large social networks found at the [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html). The networks are stored as files of edges, where each row is and edge, and nodes are separated by a space. For directed edges the source node is the first node.
 
 ## Undirected Networks
 * [Social circles: Facebook](http://snap.stanford.edu/data/egonets-Facebook.html)
