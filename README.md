@@ -4,7 +4,7 @@ This repo contains the edge list's for several large social networks found at th
 
 ## Undirected Networks
 * [Social circles: Facebook](http://snap.stanford.edu/data/egonets-Facebook.html)
-* [Deezer Europe Social Network](http://snap.stanford.edu/data/feather-deezer-social.html)
+* [Deezer Europe Social Network](http://snap.stanford.edu/data/feather-deezer-social.html) - 28,281 Nodes, 92,752 Edges
 * [LastFM Asia Social Network](http://snap.stanford.edu/data/feather-lastfm-social.html)
 
 ## Directed Networks
