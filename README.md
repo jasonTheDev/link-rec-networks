@@ -10,4 +10,4 @@ This repo contains the edge list's for several large social networks found at th
 ## Directed Networks
 * [email-Eu-core network](http://snap.stanford.edu/data/email-Eu-core.html) - 1,005 Nodes, 25,571 Edges
 * [Wikipedia vote network](http://snap.stanford.edu/data/wiki-Vote.html) - 7,115 Nodes, 103,689 Edges
-* [Epinions social network](http://snap.stanford.edu/data/soc-Epinions1.html) - 75,879 Nodes, 508,837 Edges
+* [US Congress Twitter](http://snap.stanford.edu/data/congress-twitter.html) - 475 Nodes, 13,289 Edges
